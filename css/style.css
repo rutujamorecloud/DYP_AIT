@@ -1,0 +1,28 @@
+.box
+{
+    width:400px;
+    height:200px;
+    border: 2px solid black;
+    background-color: blueviolet;
+    margin: auto;
+    
+    
+    
+}
+.box h1
+{
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.box p
+{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    text-align: center;
+    padding: 10px;
+
+}
